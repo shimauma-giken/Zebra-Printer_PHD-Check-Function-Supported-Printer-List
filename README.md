@@ -1,12 +1,11 @@
-# Zebra Printer_PHD Check Function Supported Printer List
- 印字ヘッド正常性チェック機能をサポートしているプリンタ一覧
+# 印字ヘッド正常性チェック機能をサポートしているプリンタ一覧
 
 
 ![image](https://user-images.githubusercontent.com/111269302/218944208-f2b04d9c-0ec7-4c92-bbb1-6f70a65a83fe.png)  
   
 * 2023/02/15時点の情報の情報となります。最新の情報は関連マニュアル等をご確認ください。  
   
-旧プリンタについてはZebra Support Community を参照
+旧プリンタについてはZebra Support Community を参照  
 https://supportcommunity.zebra.com/s/article/Port-for-the-Print-Head-Test-JT-and-HQJT-ZPL-Commands?language=ja  
 
 
